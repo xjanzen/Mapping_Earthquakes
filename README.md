@@ -6,7 +6,7 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 
 ## Results
 
-We added another layer with the fault lines to the map for deliverable 1:
+We added another layer outlining the tectonic plates to the map for deliverable 1:
 ![Deliverable 1](Earthquake_Challenge/static/images/d1.png)
 
 We added another layer with only the major earthquakes for deliverable 2:
